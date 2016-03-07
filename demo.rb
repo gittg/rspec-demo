@@ -24,7 +24,7 @@ end
 
 demo = Demo.new 'Lorem ipsum'
 
-puts demo.name
-puts demo.power_up
-puts demo.power_down
-puts demo.demo_info
+# puts demo.name
+#puts demo.power_up
+#puts demo.power_down
+#puts demo.demo_info
