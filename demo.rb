@@ -17,7 +17,7 @@ class Demo
     end
 
 def demo_info
-  "#{@name} has a health #{@health}"
+  "#{@name} has a health of #{@health}"
 end
 
 end

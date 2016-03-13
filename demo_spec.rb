@@ -19,4 +19,11 @@ describe Demo do
 
     expect(demo.power_down).to eq 90
   end
+
+  it"displays full hero info" do 
+    demo = Demo.new'lorem ipsum'
+
+    expect(demo.demo_info).to eq 'Lorem ipsum has a health of 100'
+  end 
+
 end
