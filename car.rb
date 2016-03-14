@@ -12,7 +12,7 @@ class Car
     end
 
     def range
-      0
+      200
     end
 end
 
